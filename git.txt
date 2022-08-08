@@ -1,0 +1,11 @@
+1. repository
+2. branch
+3. commit
+4. merge
+5. merge conflict
+
+
+commands:
+
+1. git status
+2. git add "filename"
